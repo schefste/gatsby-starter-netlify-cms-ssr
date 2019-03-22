@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Dies ist ein Titel – eigentlich eine Headline
+title: Dies ist ein Titel
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Und hier kommt die grosse Headline
+subheading: 'Hallo, ich bin die Subheadline'
 mainpitch:
   title: Why Kaldi
   description: >
