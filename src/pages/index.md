@@ -19,11 +19,8 @@ description: >-
 intro:
   blurbs:
     - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: |
+        Diesen Text habe ich jetzt voll angepasst
     - image: /img/coffee.png
       text: >
         We sell green and roasted coffee beans that are sourced directly from
